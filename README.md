@@ -32,7 +32,7 @@ First release with three dial colours and an optional second hand.
 
 ## Status
 
-- Done for emery and gabbro, not published yet.
+- Done for emery and gabbro. Published as 1.0.0 on 2026-11-25: https://apps.repebble.com/59d142b6ce0146f0b3336c59
 - All geometry runs through `polar()` / `rect_r()` in `src/c/nexon.c`; on gabbro `rect_r()` returns a constant radius, which turns the squares into circles.
 - Colour schemes live in `schemes_init()`. The turquoise uses `GColorCyan`, which the panel renders lighter (about 132/245/241) than a real turquoise dial; `GColorTiffanyBlue` was tried and looked dull.
 - Open: no port to the older platforms.
