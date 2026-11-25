@@ -1,0 +1,41 @@
+Nexon - Repebble App Store listing
+
+Wird bei jeder Veroeffentlichung mit aktualisiert. Englisch, reiner Text,
+jeder Absatz und jeder Listenpunkt auf EINER Zeile (der Store uebernimmt
+Umbrueche woertlich). Pruefen mit .\pb.ps1 finish nexon
+
+-------------------------------------------------------------------------
+
+TITLE
+
+Nexon
+
+
+TAGLINE
+
+A cushion-shaped analogue dial in the spirit of 1970s German watchmaking.
+
+
+DESCRIPTION
+
+Nexon is a clean analogue watchface with applied baton indices, an inner minute track and a date window at six. The dial carries the fictional maker's mark Nexon Klarwerk.
+
+On Pebble Time 2 the dial follows the rectangular screen with a squared minute track. On Pebble Round 2 the track and indices are round and the hands are longer to use the full dial.
+
+
+SETTINGS
+
+- Colour - turquoise, white with a navy minute ring, or navy.
+- Second hand - on or off. With the second hand off the face only redraws once a minute and saves battery.
+
+
+CATEGORY
+
+Watchfaces
+
+
+RELEASE NOTES
+
+1.0.0
+
+First release with three dial colours and an optional second hand.

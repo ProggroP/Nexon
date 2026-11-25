@@ -1,0 +1,7 @@
+{
+  "presets": [
+    { "name": "turquoise", "settings": { "SCHEME": "0", "SECONDS": 1 } },
+    { "name": "white",     "settings": { "SCHEME": "1", "SECONDS": 1 } },
+    { "name": "navy",      "settings": { "SCHEME": "2", "SECONDS": 1 } }
+  ]
+}

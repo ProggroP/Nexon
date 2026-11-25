@@ -1,0 +1,37 @@
+{
+    "author": "Axel Kark",
+    "dependencies": {
+        "@rebble/clay": "1.0.8"
+    },
+    "keywords": [
+        "pebble-app",
+        "watchface",
+        "nexon"
+    ],
+    "name": "nexon",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "Nexon",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "SCHEME",
+            "SECONDS"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "emery",
+            "gabbro"
+        ],
+        "uuid": "bac8e4de-04f8-4aa9-8214-5175db062329",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
